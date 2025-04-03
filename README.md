@@ -6,9 +6,10 @@ I build this in Microsoft Visual Studio 2022.
 
 # run
 cmd > rgsicheck.exe
-usage : rgsigcheck c:\windows\notepad.exe
+<p/>usage : rgsigcheck c:\windows\notepad.exe
 
-cmd > rgsigcheck c:\windows\notepad.exe
-this is not runnable. GetLastError() = 193
-Image File Machine: x64
-Press any key to stop...
+# run
+<p/>cmd > rgsigcheck c:\windows\notepad.exe
+<p/>this is not runnable. GetLastError() = 193
+<p/>Image File Machine: x64
+<p/>Press any key to stop...
