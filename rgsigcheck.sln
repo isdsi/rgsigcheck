@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rgsigcheck", "rgsigcheck.csproj", "{00A3993B-9C06-4D2B-B506-AA092EBF4B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Debug|x64.ActiveCfg = Debug|x64
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Debug|x64.Build.0 = Debug|x64
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Release|x64.ActiveCfg = Release|x64
+		{00A3993B-9C06-4D2B-B506-AA092EBF4B83}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC3A426D-1336-4DE9-B8B0-CE9FF5DD29E0}
+	EndGlobalSection
+EndGlobal
